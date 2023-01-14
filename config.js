@@ -42,16 +42,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],//
-['62882016155766', '𝙭𝙧𝙗𝙤𝙩', true]
+['6283132749084', 'LansDev', true],//
+['6283820901508', '𝙭𝙧𝙗𝙤𝙩', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorownv2 = '62882016155766'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '6283820901508'
+global.nomorown = '6283132749084'
+global.nomorownv2 = '6283132749084'
+global.nomorown1 = '6283132749084'
+global.nomorown2 = '6283132749084'
 global.nomorwa = '0'
 
 
@@ -59,14 +59,14 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.author = 'AbiDev'
+global.author = 'LansDev'
 global.namebot = '𝙭𝙧𝙗𝙤𝙩'
 global.wm = '𝙭𝙧𝙗𝙤𝙩'
 global.media = 'https://telegra.ph/file/b9c38c34238271d29e86e.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/6288232154376'
+global.wame = 'https://wa.me/6283132749084'
 global.alllink = `https://youtube.com`
 global.wm2 = ' 𝙭𝙧𝙗𝙤𝙩 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
@@ -85,17 +85,17 @@ global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/abityru'//Instagram klian
-global.sgh = 'https://github.com/AbiDev11' //github
+global.sig = 'https://instagram.com/lans.xys'//Instagram klian
+global.sgh = 'https://github.com/lans-ofc' //github
 global.tautanwa = 'https://wa.me/6288232154376'
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/F9St301rfmhE7xOFBKmvG2' //group whatsapp
 global.syt = '-' //youtube
 global.sytv = 'https://youtu.be/lN-0jnuK2'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888232154376'
+global.pdana = '083132749084'
 global.povo = '-'
-global.pgopay = '0888232154376'
+global.pgopay = '083132749084'
 global.plinkaja = '-' //link aja
 global.ppulsa = '-'
 global.ppulsa2 = '-'
@@ -319,9 +319,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/abityru24"
+global.urlnya = "https://www.instagram.com/lans.xys"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0882 3215 4376'
+global.phn = '0831 3274 9084'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
