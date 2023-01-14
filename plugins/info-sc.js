@@ -5,7 +5,7 @@ let handler  = async (m, { conn, participants, usedPrefix: _p }) => {
 let name = conn.getName(who)
 	
                     
-let anu2 =`Esceh?\nNih:https://youtu.be/mg0Ix9uxOaU`
+let anu2 =`Esceh?\nNih:https://nekopoi.care`
   conn.sendButtonImg(m.chat, await(await fetch(thumb)).buffer(), anu2, botdate, 'Thanks', '.thanks',)
 }
 handler.help = ['sc']
